@@ -31,8 +31,4 @@ public class Acount {
         System.out.println("Hisob raqami:"+accountNumber);
         System.out.println("Balans"+balance);
     }
-
-    public String getAccountNumber() {
-        return accountNumber+"";
-    }
 }
